@@ -1,0 +1,2 @@
+# .eslintignore patterns behave the same way as .gitignore patterns
+# Source: https://eslint.org/docs/user-guide/configuring/ignoring-code
